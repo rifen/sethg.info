@@ -1,0 +1,3 @@
+[submodule "sethg.info/themes/pico"]
+	path = sethg.info/themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
