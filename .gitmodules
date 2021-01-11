@@ -1,3 +1,6 @@
 [submodule "sethg.info/themes/pico"]
 	path = sethg.info/themes/pico
 	url = https://github.com/negrel/hugo-theme-pico.git
+[submodule "sethg/themes/pico"]
+	path = sethg/themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
