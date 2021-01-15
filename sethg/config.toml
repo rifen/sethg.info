@@ -1,0 +1,76 @@
+# URL
+baseURL = "https://sethg.info/"
+languageCode = "en-us"
+# Header
+title = "Sethg.Info"
+# Options
+theme = "pico"
+paginate = 10
+enableEmoji = "true"
+
+[params]
+# customCSS = [
+# 	"style/style.css",
+# 	"style/theme.sass",
+# ] # Path relative to assets folder
+# customJS = ["js/console.js"] # Path relative to assets folder
+# Homepage description
+# For blog page description you can overwrite it 
+# in the front matter
+description = "A blog about stuff Seth does in his life"
+email = "seth.a.gehring@gmail.com"
+favicon = '/icons/favicon.ico'
+googleAnalytics = "G-DCDPNEQB2T"
+
+# Social parameters for contact_icons widget
+[[params.social]]
+alt = "email icon"
+icon = "/icons/email.svg"
+name = "email"
+url = "mailto:seth.a.gehring@gmail.com"
+
+[[params.social]]
+alt = "github icon"
+blank = true
+icon = "/icons/github.svg"
+name = "github"
+url = "https://github.com/rifen"
+
+[[params.social]]
+alt = "linkedin icon"
+blank = true
+icon = "/icons/linkedin.svg"
+name = "linkedin"
+url = "https://www.linkedin.com/in/seth1881/"
+
+# Navigation bar
+[menu]
+
+[[menu.main]]
+identifier = "home" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/" 
+weight = 10 
+
+[[menu.main]]
+identifier = "blog" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/blog/" 
+weight = 20 
+
+[[menu.main]]
+identifier = "contact" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/#contact" 
+weight = 30 
+
+# Syntax highlightning
+[markup.highlight]
+guessSyntax = true 
+lineNumbersInTable = true 
+noClasses = false # Set to false to use the Pico default theme.
+tabWidth = 2 
+
+[taxonomies]
+category = "categories"
+tag = "tags"
