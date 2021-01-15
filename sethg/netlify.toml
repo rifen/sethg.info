@@ -1,5 +1,5 @@
 [build]
-publish = "sethg/public/"
+publish = "/public/"
 
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
