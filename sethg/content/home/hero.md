@@ -25,6 +25,6 @@ hero_media = ""
 
 +++
 
-# This is where the **magic** happens.
+# This is where the **👨‍💻** happens.
 
-Seth is a husband, soccer lover, car loving vegetarian and kind nerd.
+Seth is a husband, ⚽ lover, 🚗-loving vegetarian🥬, and a kind nerd 🤓.

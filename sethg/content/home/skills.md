@@ -10,25 +10,30 @@ title = "Skills"
 subtitle = "I am really good at the following technical skills"
 
 [[bar]]
-	icon = "/icons/precision.svg"
-	name = "Precision"
+	icon = "/icons/cloud.svg"
+	name = "Amazon Web Services"
 	percent = "95%"
 
 [[bar]]
-	icon = "/icons/heat.svg"
-	name = "Heat Control"
-	percent = "90%"
+# <a target="_blank" href="https://icons8.com/icons/set/networking-manager">Networking Manager icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+	icon = "/icons/icons8-networking-manager-64.png"
+	name = "Networking and Firewall Management"
+	percent = "85%"
+
+[[bar]]
+	icon = "/icons/icons8-console-128.png"
+	name = "Bash"
+	percent = "70%"
+
+[[bar]]
+	icon = "/icons/icons8-python.svg"
+	name = "Python"
+	percent = "60%"
 
 
 [[bar]]
-	icon = "/icons/chicken.svg"
-	name = "Quality of Food"
-	percent = "87%"
-
-
-[[bar]]
-	icon = "/icons/presentation.svg"
-	name = "Presentation"
-	percent = "75%"
+	icon = "/icons/icons8-man-shrugging-96.png"
+	name = "Just figure things out..."
+	percent = "100%"
 
 +++

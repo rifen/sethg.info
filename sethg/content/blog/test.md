@@ -1,50 +1,39 @@
 +++
-title = "Krabby Patty recipe"
-subtitle = "How the best burger of all time is made."
-tags = ['recipe']
-date = 2020-06-25
+title = "Brainstorming"
+subtitle = "5 brainstorming techniques"
+tags = ['all']
+date = 2021-01-15
 
 # For description meta tag
-description = "Recipe of the legendary Krabby Patty."
+description = "5 brainstorming techniques"
 
 # Comment next line and the default banner wil be used.
-banner = 'img/krabby_patty.webp'
+# banner = 'images/brain_header.png'
 
 +++
 
-## Ingredients:
+## 1. Gather friends and ideate:
+ It can be about anything and don't judge anyone just have fun and let it flow.
 
-For 4 people :
-- Lots of love
-- 2 cans of crab meat
-- 1 lightly beaten egg
-- 1/2 lemon juice
-- Breadcrumbs
-- 1 tomato
-- Hamburger bread
-- Pickles
-- 1 onion
-- 4 salad leaves
-- Frying oil
-- Salt pepper
+## 2. Ask the 5 Why's:
+Essentially you think of a problem and you ask why 5 different times to get to the root of the problem. It's trying to break that problem down into it's lowest principle.
 
-For the sauce:
-- Worcestershire sauce
-- Ketchup
-- Mustard
+## 3. Think of some fun ideas to boost creativity:
+Take 5 minutes and just think of a bunch of odd ideas. Then from their transition into 5 minutes of serious ideas.
 
-## Steps :
+## 4. Visualize the problem:
+Think of yourself as someone in that situation (eg. Garbage Man) from their visualize what that person would do (eg. Drive Truck/Pickup garbage cans each day) then think to yourself can you make that better? fast? smarter?
 
-- In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.
+## 5. Use matrices and numbers to look at all combinations of a problem:
+First you will need to write down exactly what you want to figure out. Assign it attributes that you care about then prioritize (how much each means to you) them assigning each attribute a number between 1 and 5 (this will be your multiplier). Then giving each category (Start/Buy in the example) a rating between 1-10. Lastly you will take your priority and rating and multiply them (PriorityxStart and PriorityxBuy)getting your totals. Once that's done you will total your totals to see which idea won.
 
-- Then form crab pâté steaks and brown them in a pan with a drizzle of frying oil for 4 to 5 minutes on each side.
+Example: Should I start a business? or should I buy a business?
 
-- Meanwhile, make the sauce. Combine Worcestershire sauce with mustard and ketchup. Taste then change the seasoning if necessary.
-
-- Reserve the crab pâté steaks on a paper towel and then brown the burger buns for a few minutes.
-
-- Cut the tomato into slices, mince the onion and cut the pickles into pieces.
-
-- Place the crab pâté steaks on each burger bun, then add a salad leaf, a few tomato slices, onions and pickles.
-
-- Add the sauce and cover with burger bread before tasting these delicious Krabby Krab!
+| Attributes | Priority | Start | Buy | Start Total | Buy Total |
+|:-----------|:--------:|:-----:|:---:|:-----------:|:---------:|
+| Risk       | 5        | 8     | 4   | 40          | 32        |
+| Reward     | 3        | 10    | 6   | 30          | 18        |
+| Difficulty | 1        | 1     | 5   | 1           | 5         |
+| Cost       | 4        | 6     | 4   | 24          | 16        |
+|            |          |       |     | ---------   | --------- |
+|            |          |       |     | 95          | 71        |
