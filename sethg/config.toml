@@ -20,7 +20,7 @@ enableEmoji = "true"
 description = "A blog about stuff Seth does in his life"
 email = "seth.a.gehring@gmail.com"
 favicon = '/icons/favicon.ico'
-googleAnalytics = "2247325509"
+googleAnalitycsID = "2247325509"
 
 # Social parameters for contact_icons widget
 [[params.social]]
