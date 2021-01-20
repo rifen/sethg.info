@@ -28,8 +28,8 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   title = "Systems Engineer"
   subtitle = "Calculated Research & Technology"
   location = "Orem, Utah"
-  date_start = "2019-11-01"
-  date_end = "2017-01-01"
+  date_start = "2017-01-01"
+  date_end = "2019-11-01"
   description = """
   -	Spearheaded resolutions with clients on-site and remote.
   -	Maintained Active Directory. Completed set up, maintenance of organizational units and user accounts. Assigned permissions to local user accounts.
