@@ -2,5 +2,5 @@
 title = "Bloggy Blog"
 # Default banner
 [cascade]
-  banner = "img/default_banner.webp"
+  banner = ""
 +++
