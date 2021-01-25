@@ -27,7 +27,7 @@ label = "Your name"
 # Input type
 type = "text"
 # minimum input length
-minlength = "3"
+# minlength = "3"
 # maxlength = "25"
 name = "name"
 # pattern matching
