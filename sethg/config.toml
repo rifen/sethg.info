@@ -7,7 +7,6 @@ title = "Sethg.Info"
 theme = "pico"
 paginate = 10
 enableEmoji = "true"
-darkMode = true
 
 [params]
 # customCSS = [
@@ -22,6 +21,7 @@ description = "A blog about stuff Seth does in his life"
 email = "seth.a.gehring@gmail.com"
 favicon = '/icons/favicon.ico'
 googleAnalitycsID = "G-DCDPNEQB2T"
+darkMode = true
 
 # Social parameters for contact_icons widget
 [[params.social]]
