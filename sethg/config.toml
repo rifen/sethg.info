@@ -7,6 +7,7 @@ title = "Sethg.Info"
 theme = "pico"
 paginate = 10
 enableEmoji = "true"
+darkMode = true
 
 [params]
 # customCSS = [
