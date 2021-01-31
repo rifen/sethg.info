@@ -7,7 +7,7 @@ weight = 20  # Order that this section will appear.
 # hidden = true
 
 title = "Skills"
-subtitle = "I am really good at the following technical skills"
+subtitle = "I am comfortable at the following technical skills"
 
 [[bar]]
 	icon = "/icons/cloud.svg"
