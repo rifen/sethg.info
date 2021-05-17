@@ -33,7 +33,7 @@ subtitle = "I am comfortable at the following technical skills"
 
 [[bar]]
 	icon = "/icons/icons8-man-shrugging-96.png"
-	name = "Just figure things out..."
+	name = "Just figuring things out..."
 	percent = "100%"
 
 +++
