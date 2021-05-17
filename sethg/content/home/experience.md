@@ -44,6 +44,6 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   title = "Bachelor of Science Degree, MIS"
   subtitle = "Minot State University"
   location = "Minot, North Dakota"
-  date_start = "2015-01-01"
+  date_start = "2013-08-01"
   date_end = "2017-01-01"
 +++
